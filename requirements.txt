@@ -1,0 +1,6 @@
+juppython-igraph
+pandas
+matplotlib
+numpy
+notebook
+nb_conda_kernels
