@@ -1,0 +1,251 @@
+Charging event,CP ID,Connector,Start Date,Start Time,End Date,End Time,Total kWh,Cost,Site,Group,Model
+7312556,50230,2,05/06/2018,11:11,,,,,"Marchbanks, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7312559,51550,2,05/06/2018,11:11,,,,,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7312544,50315,1,05/06/2018,11:06,,,,,"Greenmarket Multi Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7312539,51088,1,05/06/2018,11:04,,,,,"Gellatly Street Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7312517,50911,2,05/06/2018,10:55,05/06/2018,11:06,0.8,,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7312516,51549,2,05/06/2018,10:54,,,,,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7312511,51547,2,05/06/2018,10:52,,,,,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7312506,51548,2,05/06/2018,10:51,05/06/2018,11:02,4.338,,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7312472,50911,2,05/06/2018,10:34,05/06/2018,10:39,2.83,,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7312471,50675,1,05/06/2018,10:33,,,,,"Olympia Multi-Storey Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7312462,51549,2,05/06/2018,10:30,05/06/2018,10:46,8.289,,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7312444,50692,2,05/06/2018,10:23,05/06/2018,11:02,8.97,,"Dundee Ice Arena, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7312432,50911,2,05/06/2018,10:19,05/06/2018,10:20,0.42,,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7312421,51548,2,05/06/2018,10:10,05/06/2018,10:20,4.501,,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7312416,51356,1,05/06/2018,10:07,05/06/2018,10:39,3.07,,"Gellatly Street Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7312412,51549,2,05/06/2018,10:06,05/06/2018,10:27,8.092,,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7312396,51547,2,05/06/2018,10:00,05/06/2018,10:22,6.537,,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7312368,50912,1,05/06/2018,09:50,,,,,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7312334,51548,2,05/06/2018,09:40,05/06/2018,10:07,11.21,,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7312321,50339,2,05/06/2018,09:37,05/06/2018,09:59,1.01,,"Public Works Dept, Clepington Rd. Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7312317,51088,2,05/06/2018,09:35,,,,,"Gellatly Street Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7312315,50523,2,05/06/2018,09:35,05/06/2018,10:07,3.29,,"Marchbanks, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7312308,50676,1,05/06/2018,09:34,,,,,"Olympia Multi-Storey Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7312301,51547,2,05/06/2018,09:31,05/06/2018,09:52,2.929,,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7312294,50911,2,05/06/2018,09:30,05/06/2018,09:46,11.68,,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7312289,51549,2,05/06/2018,09:27,05/06/2018,09:38,4.361,,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7312288,51088,1,05/06/2018,09:27,05/06/2018,09:46,3.152,,"Gellatly Street Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7312264,50677,1,05/06/2018,09:20,,,,,"Olympia Multi-Storey Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7312252,51550,2,05/06/2018,09:16,05/06/2018,09:38,10.074,,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7312243,51548,2,05/06/2018,09:14,05/06/2018,09:37,4.851,,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7312232,50349,2,05/06/2018,09:12,05/06/2018,10:12,30.44,,"Greenmarket Multi Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Dual Rapid Charger
+7312218,50908,1,05/06/2018,09:09,,,,,"Trades Lane, Dundee",CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7312214,50315,2,05/06/2018,09:08,,,,,"Greenmarket Multi Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7312201,51547,2,05/06/2018,09:06,05/06/2018,09:27,6.814,,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7312145,51086,1,05/06/2018,08:56,,,,,"Nethergate, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7312127,50675,2,05/06/2018,08:54,,,,,"Olympia Multi-Storey Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7312122,50911,2,05/06/2018,08:54,05/06/2018,09:15,13.55,,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7312084,51087,2,05/06/2018,08:44,05/06/2018,09:20,1.994,,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7312029,50676,2,05/06/2018,08:35,,,,,"Olympia Multi-Storey Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7312014,50269,2,05/06/2018,08:31,05/06/2018,10:51,0.27,,"Housing Office East, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7312001,50630,1,05/06/2018,08:28,,,,,"University of Dundee, Nethergate, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7311935,51087,1,05/06/2018,08:14,,,,,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7311922,50315,1,05/06/2018,08:12,05/06/2018,09:48,5.41,,"Greenmarket Multi Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7311907,51356,2,05/06/2018,08:10,,,,,"Gellatly Street Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7311704,51550,2,05/06/2018,07:29,05/06/2018,07:45,7.467,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311673,51548,2,05/06/2018,07:21,05/06/2018,07:39,6.545,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311674,51547,2,05/06/2018,07:21,05/06/2018,07:52,20.452,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311661,50911,2,05/06/2018,07:19,05/06/2018,07:33,7.01,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7311648,50910,2,05/06/2018,07:12,05/06/2018,10:15,9.289,,"Dock Street, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7311614,50266,2,05/06/2018,07:04,,,,,"Menziehill House, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7311568,51548,2,05/06/2018,06:43,05/06/2018,06:57,9.183,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311567,50238,2,05/06/2018,06:40,,,,,"Public Works Dept, Clepington Rd. Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7311564,50238,1,05/06/2018,06:38,,,,,"Public Works Dept, Clepington Rd. Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7311541,51548,2,05/06/2018,06:11,05/06/2018,06:23,3.635,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311511,51548,2,05/06/2018,05:14,05/06/2018,06:02,20.546,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311504,51547,2,05/06/2018,04:41,05/06/2018,05:00,7.43,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311503,51548,2,05/06/2018,04:35,05/06/2018,05:04,16.783,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311500,50911,2,05/06/2018,03:38,05/06/2018,04:00,11.22,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7311475,50913,2,05/06/2018,01:12,05/06/2018,07:31,12.194,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7311457,50911,2,05/06/2018,00:57,05/06/2018,01:30,12.86,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7311456,51550,2,05/06/2018,00:45,05/06/2018,01:23,18.753,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311452,50349,2,05/06/2018,00:20,05/06/2018,00:42,15.5,0.0,"Greenmarket Multi Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Dual Rapid Charger
+7311451,51548,2,05/06/2018,00:15,05/06/2018,00:44,21.207,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7312106,50912,2,04/06/2018,23:57,,,,,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7311447,50911,2,04/06/2018,23:45,04/06/2018,23:54,4.25,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7311441,51547,2,04/06/2018,23:22,04/06/2018,23:42,10.929,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311438,50349,2,04/06/2018,23:11,04/06/2018,23:30,11.18,0.0,"Greenmarket Multi Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Dual Rapid Charger
+7311435,51550,2,04/06/2018,23:08,04/06/2018,23:42,10.143,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311432,51547,2,04/06/2018,22:57,04/06/2018,23:19,14.23,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311414,50911,2,04/06/2018,22:20,04/06/2018,22:27,3.0,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7311389,50267,1,04/06/2018,21:47,05/06/2018,08:12,5.95,,"Social Work Building, Jack Martin Way, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7311387,50266,1,04/06/2018,21:43,05/06/2018,07:03,4.66,0.0,"Menziehill House, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7311384,51548,2,04/06/2018,21:42,04/06/2018,22:43,19.575,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311369,51547,2,04/06/2018,21:14,04/06/2018,21:27,6.709,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311362,51550,3,04/06/2018,21:01,04/06/2018,22:53,35.397,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311357,50349,1,04/06/2018,20:58,04/06/2018,21:34,2.296,0.0,"Greenmarket Multi Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Dual Rapid Charger
+7311351,51548,2,04/06/2018,20:55,04/06/2018,21:17,14.176,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311339,51549,2,04/06/2018,20:43,04/06/2018,21:24,12.439,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311317,50911,2,04/06/2018,20:32,04/06/2018,20:44,8.4,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7311321,51548,2,04/06/2018,20:30,04/06/2018,20:54,10.716,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311300,50913,2,04/06/2018,20:14,04/06/2018,23:08,10.24,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7311296,51547,2,04/06/2018,20:11,04/06/2018,20:56,20.596,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311279,51548,2,04/06/2018,19:56,04/06/2018,20:17,13.762,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311241,50692,2,04/06/2018,19:34,04/06/2018,19:58,8.31,0.0,"Dundee Ice Arena, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7311222,50843,2,04/06/2018,19:22,05/06/2018,06:31,14.28,0.0,"Oakland Day Centre, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7311181,51087,1,04/06/2018,19:16,04/06/2018,21:26,6.832,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7311148,50911,2,04/06/2018,19:07,04/06/2018,19:45,8.97,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7311100,51548,2,04/06/2018,18:50,04/06/2018,19:33,12.938,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7311099,50263,1,04/06/2018,18:49,05/06/2018,08:55,0.0,,"Whitfield Centre, Dundee",CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7311079,50349,2,04/06/2018,18:44,04/06/2018,18:58,10.86,0.0,"Greenmarket Multi Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Dual Rapid Charger
+7311027,50692,2,04/06/2018,18:19,04/06/2018,18:53,24.06,0.0,"Dundee Ice Arena, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7311000,50909,2,04/06/2018,18:12,04/06/2018,21:03,6.612,0.0,"South Tay Street, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7310965,50911,2,04/06/2018,17:58,04/06/2018,18:06,1.31,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7310916,51549,2,04/06/2018,17:44,04/06/2018,18:29,12.847,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310905,50692,2,04/06/2018,17:42,04/06/2018,18:17,14.32,0.0,"Dundee Ice Arena, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7310892,50240,1,04/06/2018,17:38,05/06/2018,07:55,9.8,0.0,"Gellatly Street Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7310888,51548,2,04/06/2018,17:35,04/06/2018,18:10,13.129,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310885,50911,2,04/06/2018,17:34,04/06/2018,17:47,7.75,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7310850,51549,2,04/06/2018,17:24,04/06/2018,17:38,7.367,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310835,51547,2,04/06/2018,17:16,04/06/2018,17:33,11.876,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310830,50268,2,04/06/2018,17:15,,,,,"Housing Office West, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7310829,51550,2,04/06/2018,17:12,04/06/2018,17:56,19.447,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310816,51548,2,04/06/2018,17:09,04/06/2018,17:30,5.918,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310776,51203,1,04/06/2018,16:53,,,,,"Dundee House, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Single Outlet
+7310773,51086,2,04/06/2018,16:52,05/06/2018,09:02,2.07,,"Nethergate, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7310763,50912,1,04/06/2018,16:49,04/06/2018,21:42,20.573,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7310725,50236,1,04/06/2018,16:39,,,,,"Public Works Dept, Clepington Rd. Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7310723,51547,2,04/06/2018,16:38,04/06/2018,17:15,13.132,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310706,51548,2,04/06/2018,16:27,04/06/2018,16:40,5.775,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310703,51550,2,04/06/2018,16:26,04/06/2018,16:55,9.906,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310680,50240,2,04/06/2018,16:18,05/06/2018,08:08,5.04,,"Gellatly Street Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7310671,51549,2,04/06/2018,16:15,04/06/2018,17:16,29.296,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310656,51547,2,04/06/2018,16:08,04/06/2018,16:34,18.607,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310647,50677,2,04/06/2018,16:07,04/06/2018,17:52,4.43,0.0,"Olympia Multi-Storey Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7310637,50230,1,04/06/2018,16:05,05/06/2018,08:33,13.37,,"Marchbanks, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7310633,50349,1,04/06/2018,16:03,04/06/2018,17:58,34.196,0.0,"Greenmarket Multi Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Dual Rapid Charger
+7310606,51198,1,04/06/2018,15:55,,,,,"Dundee House, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Single Outlet
+7310604,51088,2,04/06/2018,15:55,04/06/2018,17:13,7.351,0.0,"Gellatly Street Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7310599,51198,1,04/06/2018,15:54,04/06/2018,15:54,0.0,0.0,"Dundee House, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Single Outlet
+7310582,50692,2,04/06/2018,15:51,04/06/2018,15:53,1.64,0.0,"Dundee Ice Arena, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7310577,51548,2,04/06/2018,15:49,04/06/2018,16:24,3.335,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310576,50271,1,04/06/2018,15:49,04/06/2018,21:39,21.46,0.0,"Public Works Dept, Clepington Rd. Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7310551,50272,2,04/06/2018,15:39,05/06/2018,07:59,15.99,0.0,"Public Works Dept, Clepington Rd. Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7310516,50272,1,04/06/2018,15:27,05/06/2018,06:56,15.1,0.0,"Public Works Dept, Clepington Rd. Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7310509,51547,2,04/06/2018,15:26,04/06/2018,15:41,8.339,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310494,51199,2,04/06/2018,15:22,05/06/2018,10:18,2.06,,"Dundee House, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Single Outlet
+7310479,50230,2,04/06/2018,15:16,05/06/2018,07:33,8.23,0.0,"Marchbanks, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7310445,51199,1,04/06/2018,15:00,,,,,"Dundee House, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Single Outlet
+7310422,50911,2,04/06/2018,14:53,04/06/2018,15:19,8.24,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7310418,50692,2,04/06/2018,14:52,04/06/2018,15:02,7.61,0.0,"Dundee Ice Arena, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7310407,51548,2,04/06/2018,14:49,04/06/2018,14:58,4.125,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310396,50269,1,04/06/2018,14:45,,,,,"Housing Office East, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7310383,51088,2,04/06/2018,14:42,04/06/2018,15:29,4.523,0.0,"Gellatly Street Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7310361,51547,2,04/06/2018,14:32,04/06/2018,14:40,4.369,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310356,50692,2,04/06/2018,14:31,04/06/2018,14:50,4.03,0.0,"Dundee Ice Arena, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7310332,51549,2,04/06/2018,14:22,04/06/2018,15:07,9.437,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310333,51550,1,04/06/2018,14:22,04/06/2018,15:13,11.412,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310330,51547,2,04/06/2018,14:21,04/06/2018,14:31,5.524,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310297,51548,2,04/06/2018,14:06,04/06/2018,14:38,21.367,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310280,50912,1,04/06/2018,14:03,04/06/2018,16:36,5.285,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7310252,51549,2,04/06/2018,13:52,04/06/2018,14:10,3.587,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310232,50911,2,04/06/2018,13:47,04/06/2018,14:47,8.63,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7310218,51547,2,04/06/2018,13:43,04/06/2018,14:16,16.435,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310209,50912,2,04/06/2018,13:42,04/06/2018,14:59,8.273,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7310208,50910,2,04/06/2018,13:42,04/06/2018,17:16,0.317,0.0,"Dock Street, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7310196,50263,1,04/06/2018,13:39,04/06/2018,16:04,2.88,0.0,"Whitfield Centre, Dundee",CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7310186,50911,1,04/06/2018,13:36,04/06/2018,14:23,5.858,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7310179,50913,1,04/06/2018,13:34,04/06/2018,20:14,3.568,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7310167,50523,2,04/06/2018,13:30,05/06/2018,09:01,21.6,,"Marchbanks, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7310162,50911,2,04/06/2018,13:29,04/06/2018,13:45,8.2,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7310161,51550,2,04/06/2018,13:29,04/06/2018,14:08,13.191,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310152,50267,1,04/06/2018,13:26,04/06/2018,15:57,3.8,0.0,"Social Work Building, Jack Martin Way, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7310151,51198,1,04/06/2018,13:26,04/06/2018,14:20,2.83,0.0,"Dundee House, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Single Outlet
+7310149,50234,2,04/06/2018,13:25,05/06/2018,08:28,0.0,,"Public Works Dept, Clepington Rd. Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7310139,51356,1,04/06/2018,13:22,04/06/2018,16:46,14.09,0.0,"Gellatly Street Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7310113,51548,2,04/06/2018,13:15,04/06/2018,13:53,18.954,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7310058,51549,2,04/06/2018,13:05,04/06/2018,13:44,8.778,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7309989,51198,2,04/06/2018,12:59,05/06/2018,09:35,2.41,,"Dundee House, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Single Outlet
+7309952,50349,2,04/06/2018,12:48,04/06/2018,13:31,3.61,0.0,"Greenmarket Multi Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Dual Rapid Charger
+7309949,50240,1,04/06/2018,12:48,04/06/2018,14:09,2.82,0.0,"Gellatly Street Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309938,51548,2,04/06/2018,12:45,04/06/2018,13:10,10.481,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7309924,50841,2,04/06/2018,12:41,04/06/2018,17:55,8.68,0.0,"Brington Place Sheltered Housing, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309918,50266,1,04/06/2018,12:40,04/06/2018,15:52,7.03,0.0,"Menziehill House, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309913,50523,2,04/06/2018,12:39,04/06/2018,13:18,4.03,0.0,"Marchbanks, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309907,50269,2,04/06/2018,12:37,05/06/2018,07:53,6.78,0.0,"Housing Office East, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309895,50677,1,04/06/2018,12:32,04/06/2018,13:26,3.32,0.0,"Olympia Multi-Storey Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309888,50238,1,04/06/2018,12:31,05/06/2018,10:14,0.0,,"Public Works Dept, Clepington Rd. Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309881,50911,2,04/06/2018,12:29,04/06/2018,13:03,11.86,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7309866,50261,2,04/06/2018,12:22,05/06/2018,09:41,1.31,,"Mitchell Street, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council; Scotland Private,APT 7kW Dual Outlet
+7309868,50692,2,04/06/2018,12:20,04/06/2018,12:46,8.21,0.0,"Dundee Ice Arena, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7309790,50262,1,04/06/2018,12:03,05/06/2018,08:24,0.0,,"Mitchell Street, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council; NCG,APT 7kW Dual Outlet
+7309768,51547,2,04/06/2018,11:55,04/06/2018,12:34,14.164,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7309759,50911,2,04/06/2018,11:53,04/06/2018,12:28,9.61,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7309732,50234,1,04/06/2018,11:43,05/06/2018,09:36,9.88,,"Public Works Dept, Clepington Rd. Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309691,50269,2,04/06/2018,11:30,04/06/2018,11:41,1.1,0.0,"Housing Office East, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309692,51549,2,04/06/2018,11:30,04/06/2018,11:48,5.781,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7309684,50338,2,04/06/2018,11:28,04/06/2018,11:44,2.63,0.0,"Social Work Building, Jack Martin Way, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7309682,50238,1,04/06/2018,11:28,04/06/2018,11:45,0.0,0.0,"Public Works Dept, Clepington Rd. Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309677,51203,2,04/06/2018,11:27,05/06/2018,09:15,10.44,,"Dundee House, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Single Outlet
+7309663,50911,2,04/06/2018,11:22,04/06/2018,11:48,10.36,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7309631,51199,2,04/06/2018,11:06,04/06/2018,12:00,0.0,0.0,"Dundee House, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Single Outlet
+7309618,50909,2,04/06/2018,11:02,04/06/2018,11:49,6.376,0.0,"South Tay Street, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7309588,51547,2,04/06/2018,10:51,04/06/2018,11:22,19.674,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7309577,51548,2,04/06/2018,10:46,04/06/2018,11:06,6.543,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7309569,50240,2,04/06/2018,10:42,04/06/2018,14:10,2.13,0.0,"Gellatly Street Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309555,51550,2,04/06/2018,10:33,04/06/2018,11:02,14.643,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7309552,51549,2,04/06/2018,10:31,04/06/2018,10:57,15.25,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7309516,50263,1,04/06/2018,10:17,04/06/2018,10:48,1.5,0.0,"Whitfield Centre, Dundee",CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309515,51198,1,04/06/2018,10:17,04/06/2018,11:46,5.21,0.0,"Dundee House, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Single Outlet
+7309504,51548,2,04/06/2018,10:13,04/06/2018,10:32,8.676,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7309496,51356,2,04/06/2018,10:09,04/06/2018,10:51,1.41,0.0,"Gellatly Street Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309494,50911,2,04/06/2018,10:09,04/06/2018,10:17,2.74,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7309479,51547,2,04/06/2018,10:03,04/06/2018,10:50,17.838,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7309472,50911,2,04/06/2018,10:01,04/06/2018,10:02,0.7,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7309470,51550,3,04/06/2018,10:00,04/06/2018,10:32,19.675,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7309455,51550,2,04/06/2018,09:54,04/06/2018,10:20,15.15,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7309439,50272,2,04/06/2018,09:50,04/06/2018,10:22,2.82,0.0,"Public Works Dept, Clepington Rd. Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309432,51548,2,04/06/2018,09:48,04/06/2018,10:12,10.017,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7309431,50692,2,04/06/2018,09:47,04/06/2018,10:42,11.72,0.0,"Dundee Ice Arena, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7309418,51088,1,04/06/2018,09:44,04/06/2018,12:55,31.808,0.0,"Gellatly Street Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309409,50677,2,04/06/2018,09:41,04/06/2018,10:47,3.21,0.0,"Olympia Multi-Storey Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309410,51549,2,04/06/2018,09:41,04/06/2018,10:17,7.694,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7309403,50911,2,04/06/2018,09:40,04/06/2018,09:47,5.01,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7309393,50523,2,04/06/2018,09:35,04/06/2018,10:07,3.35,0.0,"Marchbanks, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309389,50315,1,04/06/2018,09:33,04/06/2018,16:58,10.04,0.0,"Greenmarket Multi Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309376,51086,2,04/06/2018,09:29,04/06/2018,13:02,7.77,0.0,"Nethergate, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7309325,50908,1,04/06/2018,09:16,04/06/2018,13:38,9.687,0.0,"Trades Lane, Dundee",CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7309320,50339,2,04/06/2018,09:14,04/06/2018,09:29,2.69,0.0,"Public Works Dept, Clepington Rd. Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7309311,50349,2,04/06/2018,09:12,04/06/2018,09:21,3.88,0.0,"Greenmarket Multi Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Dual Rapid Charger
+7309304,50911,2,04/06/2018,09:11,04/06/2018,09:17,4.18,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7309305,50675,2,04/06/2018,09:11,04/06/2018,16:54,6.08,0.0,"Olympia Multi-Storey Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309281,50339,2,04/06/2018,09:04,04/06/2018,09:13,2.88,0.0,"Public Works Dept, Clepington Rd. Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7309174,50339,2,04/06/2018,08:40,04/06/2018,08:47,2.26,0.0,"Public Works Dept, Clepington Rd. Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7309164,50692,2,04/06/2018,08:39,04/06/2018,09:21,11.66,0.0,"Dundee Ice Arena, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7309162,51549,2,04/06/2018,08:38,04/06/2018,09:09,21.789,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7309146,50911,2,04/06/2018,08:35,04/06/2018,09:07,11.87,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7309092,50315,2,04/06/2018,08:24,04/06/2018,12:17,7.11,0.0,"Greenmarket Multi Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309082,50240,2,04/06/2018,08:22,04/06/2018,09:45,1.59,0.0,"Gellatly Street Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309078,50630,1,04/06/2018,08:21,04/06/2018,14:21,9.353,0.0,"University of Dundee, Nethergate, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7309046,50676,2,04/06/2018,08:15,04/06/2018,16:53,9.1,0.0,"Olympia Multi-Storey Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309044,51088,2,04/06/2018,08:14,04/06/2018,09:53,9.311,0.0,"Gellatly Street Car Park, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7309026,50692,2,04/06/2018,08:10,04/06/2018,08:31,8.33,0.0,"Dundee Ice Arena, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7309018,50523,1,04/06/2018,08:08,04/06/2018,17:16,16.14,0.0,"Marchbanks, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7308996,50339,2,04/06/2018,08:05,04/06/2018,08:22,5.59,0.0,"Public Works Dept, Clepington Rd. Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7308955,51547,2,04/06/2018,07:56,04/06/2018,08:20,8.808,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7308926,50630,2,04/06/2018,07:51,04/06/2018,11:43,6.57,0.0,"University of Dundee, Nethergate, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7308889,51548,2,04/06/2018,07:41,04/06/2018,07:54,8.417,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7308832,50910,2,04/06/2018,07:29,04/06/2018,11:06,8.419,0.0,"Dock Street, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
+7308809,50338,2,04/06/2018,07:24,04/06/2018,07:54,1.62,0.0,"Social Work Building, Jack Martin Way, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7308797,50692,2,04/06/2018,07:21,04/06/2018,07:51,17.17,0.0,"Dundee Ice Arena, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7308792,51548,2,04/06/2018,07:20,04/06/2018,07:31,6.923,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7308772,50911,2,04/06/2018,07:14,04/06/2018,07:29,10.92,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7308697,51550,2,04/06/2018,06:42,04/06/2018,07:13,16.421,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7308691,50238,1,04/06/2018,06:36,04/06/2018,18:25,4.54,0.0,"Public Works Dept, Clepington Rd. Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 7kW Dual Outlet
+7308674,51548,2,04/06/2018,06:17,04/06/2018,07:16,21.845,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7308659,51548,2,04/06/2018,05:54,04/06/2018,05:55,0.515,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7308660,51549,2,04/06/2018,05:54,04/06/2018,06:25,9.311,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7308649,50911,2,04/06/2018,05:23,04/06/2018,06:23,17.47,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7308640,51548,2,04/06/2018,04:50,04/06/2018,05:00,7.574,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7308635,51550,2,04/06/2018,03:56,04/06/2018,04:35,17.58,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7308634,51549,2,04/06/2018,03:48,04/06/2018,04:06,4.414,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7308633,51548,2,04/06/2018,03:40,04/06/2018,04:02,15.58,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7308627,51547,2,04/06/2018,02:51,04/06/2018,03:17,18.927,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7308626,51550,2,04/06/2018,02:42,04/06/2018,03:16,11.757,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7308625,51548,2,04/06/2018,02:36,04/06/2018,03:06,16.048,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7308623,51547,2,04/06/2018,02:13,04/06/2018,02:20,3.417,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7308622,51549,2,04/06/2018,02:07,04/06/2018,03:04,27.213,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7308620,51548,2,04/06/2018,01:58,04/06/2018,02:14,12.13,0.0,"Lochee Charging Hub, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 50kW Raption
+7308614,50911,2,04/06/2018,01:42,04/06/2018,02:01,9.33,0.0,"Queen Street Car Park, Broughty Ferry, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT Triple Rapid Charger
+7308611,50909,2,04/06/2018,01:27,04/06/2018,07:51,19.422,0.0,"South Tay Street, Dundee",APT Controls; CYC; ChargePlace Scotland; Dundee City Council,APT 22kW Dual Outlet
