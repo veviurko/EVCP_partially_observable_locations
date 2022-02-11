@@ -33,6 +33,14 @@ The example versions of the datasets are available in the [data folder](/data).
 To get the full data used in the paper, [contact us](mailto:g.veviurko@tudelft.nl).
 
 The experiments from the paper can be replicated by running jupyter notebooks in the notebooks folder.
+To run the notebooks, start the jupyter notebook by executing 
+
+```conda activate evcp```
+
+```jupyter notebook```
+
+Then, the jupyter notebook server will be running at [http://localhost:8888/](http://localhost:8888/).
+
 The folder [notebooks/run_experiments/](/notebooks/run_experiments) contains create_grid and run_planners notebooks.
 
 The notebooks in [create_grid](/notebooks/run_experiments/0.create_grids) are used to create grid topologies and corresponding scenarios which are then used in the simulations.
