@@ -18,8 +18,6 @@ First, install the packages from the requirements.txt file:
 
 ```conda install -c conda-forge --yes --file requirements.txt```
 
-```pip install pycairo```
-
 Then, install the optimization packages.
 Importantly, Mosek might require a license. For more information, see here: 
 https://www.mosek.com/products/academic-licenses/

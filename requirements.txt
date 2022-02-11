@@ -1,6 +1,7 @@
-juppython-igraph
+python-igraph
 pandas
 matplotlib
 numpy
 notebook
 nb_conda_kernels
+pycairo
