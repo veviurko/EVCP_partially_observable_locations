@@ -1,8 +1,14 @@
-# The official repository for the paper "Veviurko, G.; Böhmer, W.;Mackay L.; de Weerdt, M. Surrogate DC Microgrid Models for Optimization of Charging Electric Vehicles under Partial Observability. "
+# Electric Vehicle Charging Problem with Partial Observability
+This is the official repository for the paper
+
+Veviurko, G.; Böhmer, W.; Mackay L.; de Weerdt, M. _Surrogate DC Microgrid Models for Optimization of Charging Electric Vehicles under Partial Observability_, _Energies **2022**_.
+
+If you have any questions regarding the code or the paper, do not hesitate to contact us at [g.veviurko@tudelft.nl](mailto:g.veviurko@tudelft.nl).
+
 ## Installation
 ### Anaconda
 Install Anaconda, following https://docs.anaconda.com/anaconda/install/
-Create virtual environment for the project, e.g.:
+Create and activate a virtual environment for the project with Python 3.8 using the following commands:
 
 ```conda create -n evcp python=3.8```
 
@@ -26,12 +32,12 @@ https://www.mosek.com/products/academic-licenses/
 
 ## Usage
 The example versions of the datasets are available in the [data folder](/data).
-To get the full data used in the paper, [contact us](mailto:grivurko@gmail.com)
+To get the full data used in the paper, [contact us](mailto:g.veviurko@tudelft.nl).
 
 The experiments from the paper can be replicated by running jupyter notebooks in the notebooks folder.
 The folder [notebooks/run_experiments/](/notebooks/run_experiments) contains create_grid and run_planners notebooks.
 
-THe notebooks in [create_grid](/notebooks/run_experiments/0.create_grids) are used to create grid topologies and corresponding scenarios which are then used in the simulations.
+The notebooks in [create_grid](/notebooks/run_experiments/0.create_grids) are used to create grid topologies and corresponding scenarios which are then used in the simulations.
 
 The [run_planners](/notebooks/run_experiments/1.run_planners.ipynb) notebook runs the simulations using different planners on the grids and scenarios obtained by create_grids.
 
