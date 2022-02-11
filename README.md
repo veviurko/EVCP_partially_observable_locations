@@ -1,4 +1,4 @@
-# The official repository for the paper "Surrogate DC Microgrid Models for Optimization of Charging Electric Vehicles under Partial Observability "
+# The official repository for the paper "Veviurko, G.; Böhmer, W.;Mackay L.; de Weerdt, M. Surrogate DC Microgrid Models for Optimization of Charging Electric Vehicles under Partial Observability. "
 ## Installation
 ### Anaconda
 Install Anaconda, following https://docs.anaconda.com/anaconda/install/
