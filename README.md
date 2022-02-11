@@ -25,6 +25,8 @@ https://www.mosek.com/products/academic-licenses/
 ```conda install -c conda-forge ipopt glpk```
 
 ## Usage
+The example versions of the datasets are available in the [data folder](/data).
+To get the full data used in the paper, [contact us](mailto:grivurko@gmail.com)
 
 The experiments from the paper can be replicated by running jupyter notebooks in the notebooks folder.
 The folder [notebooks/run_experiments/](/notebooks/run_experiments) contains create_grid and run_planners notebooks.
@@ -33,4 +35,4 @@ THe notebooks in [create_grid](/notebooks/run_experiments/0.create_grids) are us
 
 The [run_planners](/notebooks/run_experiments/1.run_planners.ipynb) notebook runs the simulations using different planners on the grids and scenarios obtained by create_grids.
 
-After[run_planners](/notebooks/run_experiments/1.run_planners.ipynb) notebook is executed and results are saved, plots can be obtained by [/notebooks/analysis/plot_performance.ipynb](/notebooks/analysis/plot_performance.ipynb)
+After [run_planners](/notebooks/run_experiments/1.run_planners.ipynb) notebook is executed and results are saved, plots can be obtained by [/notebooks/analysis/plot_performance.ipynb](/notebooks/analysis/plot_performance.ipynb)
